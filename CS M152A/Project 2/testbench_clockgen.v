@@ -6,7 +6,7 @@
 //
 // Create Date:   21:36:13 10/27/2020
 // Design Name:   counter
-// Module Name:   /home/ise/Counters/test_counter.v
+// Module Name:   /home/ise/Counters/testbench_clockgen.v
 // Project Name:  Counters
 // Target Device:  
 // Tool versions:  
