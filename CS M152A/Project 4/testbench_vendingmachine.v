@@ -6,7 +6,7 @@
 //
 // Create Date:   01:53:38 12/12/2020
 // Design Name:   vending_machine
-// Module Name:   /home/ise/FinalProj/testbench_105313948.v
+// Module Name:   /home/ise/FinalProj/testbench_vendingmachine.v
 // Project Name:  FinalProj
 // Target Device:  
 // Tool versions:  
