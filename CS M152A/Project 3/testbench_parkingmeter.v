@@ -6,7 +6,7 @@
 //
 // Create Date:   05:34:06 11/26/2020
 // Design Name:   parking_meter
-// Module Name:   /home/ise/ParkingMeterProj/testbench_105313948.v
+// Module Name:   /home/ise/ParkingMeterProj/testbench_parkingmeter.v
 // Project Name:  ParkingMeterProj
 // Target Device:  
 // Tool versions:  
